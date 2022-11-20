@@ -1,0 +1,20 @@
+/* reseting bourders for page */
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+ /* creating a background out of an image */
+
+ body {
+    background-color: white;
+
+}
+
+div {
+    background-color:rgba(34, 139, 34, 0.188); 
+    width:fit-content;
+    height:fit-content;
+}
+
